@@ -1,0 +1,13 @@
+,count
+unique_id_duplicates,0
+case_id_pkey_duplicates,3
+lat_missing_after_parse,181
+lon_missing_after_parse,181
+coords_outside_sf_bbox,182
+number_injured_missing,0
+number_injured_lt_0,0
+number_injured_eq_0,714
+number_killed_missing,3
+number_killed_lt_0,0
+number_killed_gt_0,619
+year_mismatch_accident_vs_datetime,5

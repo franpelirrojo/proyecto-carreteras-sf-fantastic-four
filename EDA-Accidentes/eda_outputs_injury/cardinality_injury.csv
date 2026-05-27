@@ -1,0 +1,47 @@
+column,dtype,n_unique,top_value,top_count,top_pct
+case_id_pkey,str,64691,250210055,2,0.0030914767984666276
+street_view,str,39613,,126,0.19476303830339753
+tb_latitude,str,36870,,181,0.2797786502612298
+tb_longitude,str,36408,,181,0.2797786502612298
+point,str,34854,,181,0.2797786502612298
+officer_id,str,4080,,1103,1.704949454354345
+beat_number,str,3582,,4865,7.520017312270072
+secondary_rd,str,1754,MISSION ST,1087,1.6802176399666122
+collision_time,str,1440,18:00:00,300,0.46372151976999415
+primary_rd,str,1349,MISSION ST,2823,4.363619501035645
+reporting_district,str,885,,6510,10.062756979008872
+vz_pcf_code,str,337,22350,12072,18.660153955544565
+vz_pcf_group,str,255,22350,12072,18.660153955544565
+vz_pcf_description,str,250,Unsafe speed for prevailing conditions,12072,18.660153955544565
+vz_pcf_link,str,210,http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22350,12072,18.660153955544565
+weather_2,str,44,Not Stated,62709,96.93170927752188
+analysis_neighborhood,str,41,Mission,8081,12.491112004204409
+party1_move_pre_acc,str,22,Proceeding Straight,33543,51.84870312548304
+party2_move_pre_acc,str,21,Proceeding Straight,37714,58.2959779886852
+juris,str,19,3801,64447,99.61820261538938
+weather_1,str,15,Clear,53423,82.57798250224133
+month,str,12,October,6211,9.60058119763811
+collision_month_name,str,12,October,6211,9.60058119763811
+mviw,str,11,Other Motor Vehicle,29666,45.855875351655484
+road_cond_1,str,10,No Unusual Condition,61125,94.4832596531363
+police_district,str,10,SOUTHERN,10470,16.183881039972796
+dph_col_grp_description,str,10,Vehicle(s) Only Involved,38291,59.18786904504282
+dph_col_grp,str,10,AA,38291,59.18786904504282
+ped_action,str,9,No Pedestrian Involved,48373,74.77200358611309
+type_of_collision,str,9,Broadside,19832,30.65508393359508
+road_cond_2,str,8,Not Stated,64506,99.70940118094414
+party1_type,str,7,Driver,52826,81.65517667789904
+collision_dayofweek,str,7,Friday,10141,15.675333106625033
+day_of_week,str,7,Friday,10142,15.676878845024266
+direction,str,6,Not Stated,35776,55.30033697097103
+party2_type,str,6,Driver,39775,61.48174482950506
+time_cat,str,6,2:01 pm to 6:00 pm,17310,26.756731690728664
+lighting,str,6,Daylight,41614,64.32435774569511
+party1_dir_of_travel,str,5,South,16273,25.153800970723715
+party2_dir_of_travel,str,5,East,14617,22.594058181593347
+road_surface,str,5,Dry,56866,87.89995981080162
+collision_severity,str,5,Injury (Complaint of Pain),41129,63.574674622066965
+control_device,str,4,Functioning,41600,64.30271740810585
+geocode_source,str,3,SFPD-CROSSROADS,40171,62.09385723560145
+intersection,str,3,Intersection <= 20ft,42546,65.76498593378057
+geocode_location,str,1,CITY STREET,64694,100.0

@@ -1,0 +1,9 @@
+,count
+age_missing,1
+age_lt_0,0
+age_gt_110,0
+lat_missing,0
+lon_missing,0
+coords_outside_sf_bbox,0
+death_before_collision,37
+unique_id_duplicates,0

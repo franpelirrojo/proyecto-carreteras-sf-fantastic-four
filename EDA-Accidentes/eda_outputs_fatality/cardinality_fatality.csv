@@ -1,0 +1,19 @@
+column,dtype,n_unique,top_value,top_count,top_pct
+location,str,345,Ulloa St and Lenox Way,4,1.1142061281337048
+case_id_fkey,str,343,,7,1.9498607242339834
+point,str,338,POINT (-122.466351712 37.741161679),4,1.1142061281337048
+collision_time,str,288,,25,6.963788300835655
+death_time,str,287,,36,10.027855153203342
+analysis_neighborhood,str,36,Mission,39,10.86350974930362
+collision_type,str,25,Pedestrian vs Motor Vehicle,193,53.760445682451255
+collision_month_name,str,12,March,43,11.977715877437326
+police_district,str,10,NORTHERN,51,14.206128133704734
+deceased,str,8,Pedestrian,211,58.77437325905292
+collision_dayofweek,str,7,Saturday,64,17.827298050139277
+in_coc_2018,bool,2,True,180,50.13927576601671
+on_vz_hin_2017,bool,2,True,220,61.28133704735376
+sex,str,2,Male,253,70.47353760445682
+in_epa_2021,bool,2,False,214,59.610027855153206
+on_vz_hin_2022,bool,2,True,227,63.231197771587745
+street_type,str,1,City Street,359,100.0
+publish,bool,1,True,359,100.0
